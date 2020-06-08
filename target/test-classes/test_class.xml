@@ -6,4 +6,10 @@
             <class name="lab_6.ApiTests"></class>
         </classes>
     </test>
+
+    <test name="test2">
+        <classes>
+            <class name="lab_6.NegativeApiTests"></class>
+        </classes>
+    </test>
 </suite>
